@@ -2,7 +2,7 @@
 
 **Best Visualization Award — DSC 106, UC San Diego**
 
-An interactive data visualization analyzing how much protein consumers get per dollar at different grocery stores across different levels of food processing. This project was created for DSC 106 at UC San Diego and received the **Best Visualization Award** among 140+ students.
+An interactive data visualization analyzing how much protein consumers get per dollar at different grocery stores across different levels of food processing. This project was created for DSC 106 at UC San Diego and beat out over 140 other students.
 
 ## Dataset
 
