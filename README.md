@@ -12,7 +12,7 @@ Working with this large product dataset allowed me to compare the value of prote
 
 ## Overview
 
-As someone who takes fitness and meal budgeting seriously, I wanted to investigate which grocery stores provide the most protein for the money without relying entirely on lower-quality foods.
+As someone who takes fitness and meal budgeting seriously, I wanted to investigate which grocery stores provide the most protein for the money while still accounting for food quality and processing.
 
 I compared Target, Walmart, and Whole Foods using protein per dollar as the primary metric while accounting for different levels of food processing.
 
